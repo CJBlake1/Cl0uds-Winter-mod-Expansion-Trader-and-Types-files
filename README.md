@@ -13,11 +13,7 @@ Add the json files to the Market folder and add:
 To which ever trader in the Trader folder you want to buy/sell the items.
 
 The Clouds_Winter.xml is also included with this set up for Split types, just add the xml to
-your mods folder and add:
-
-<file name="Clouds_Winter.xml" type="types" />
-
-to the cfgeconomycore.xml file. Or simply add the types, with out the header and closing line, to
+your mods folder and add the call to the cfgeconomycore.xml file. Or simply add the types, with out the header and closing line, to
 your types.xml. 
 
 The weapons do not sell with all the parts, But the mod is old and does not appear to be supported anymore.
